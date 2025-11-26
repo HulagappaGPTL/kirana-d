@@ -1,0 +1,2 @@
+# kirana-d
+minipro
